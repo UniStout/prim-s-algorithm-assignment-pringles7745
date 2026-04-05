@@ -1,0 +1,48 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tyacked0931\\OneDrive - University of Wisconsin-Stout\\Algorithms\\Repos\\PrimsAlgorithmAssignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59AC699D-D3C4-74F3-E8A5-960A15EB72A4}|PrimsAlgorithm.vcxproj|C:\\Users\\tyacked0931\\OneDrive - University of Wisconsin-Stout\\Algorithms\\Repos\\primsalgorithm\\prim.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 109,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "prim.cpp",
+              "DocumentMoniker": "C:\\Users\\tyacked0931\\OneDrive - University of Wisconsin-Stout\\Algorithms\\Repos\\PrimsAlgorithm\\prim.cpp",
+              "RelativeDocumentMoniker": "..\\PrimsAlgorithm\\prim.cpp",
+              "ToolTip": "C:\\Users\\tyacked0931\\OneDrive - University of Wisconsin-Stout\\Algorithms\\Repos\\PrimsAlgorithm\\prim.cpp",
+              "RelativeToolTip": "..\\PrimsAlgorithm\\prim.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-05T21:15:59.306Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

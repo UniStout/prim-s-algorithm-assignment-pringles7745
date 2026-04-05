@@ -15,16 +15,16 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\primsalgorithm\prim.cpp">
+    <Text Include="primsData.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="prim.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\primsalgorithm\prim.h">
+    <ClInclude Include="prim.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <Text Include="primsData.txt" />
   </ItemGroup>
 </Project>

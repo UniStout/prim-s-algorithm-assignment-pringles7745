@@ -119,13 +119,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\primsalgorithm\prim.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="..\primsalgorithm\prim.h" />
-  </ItemGroup>
-  <ItemGroup>
     <Text Include="primsData.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="prim.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="prim.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
